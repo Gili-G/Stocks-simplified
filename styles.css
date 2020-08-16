@@ -1,0 +1,279 @@
+*{
+    margin:0;
+    color: #414447;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Alata', sans-serif;
+    font-weight: normal;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #f7fbfc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+A {
+    text-decoration: none;
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    display: block;
+    top: 0;
+}
+
+.header-text {
+    margin-top: 1%;
+    margin-left: 3%;
+    font-size: 140%;
+    display: inline-block;
+}
+
+.header-link {
+    margin-left: 5%;
+    font-size: 110%;
+    cursor: pointer;
+}
+
+.header-link:hover{
+    color:#838385;
+    text-decoration: underline;
+    text-decoration-color:#838385;
+}
+
+#home-1 {
+    text-decoration: underline;
+}
+
+#learn-2 {
+    text-decoration: underline;
+}
+
+#activities-3{
+    text-decoration: underline;
+}
+
+#top-stocks-4 {
+    text-decoration: underline;
+}
+
+.banner{
+    width: 50%;
+    margin: auto;
+    margin-top: 4%;
+}
+.banner-text {
+    width: 80%;
+    margin: auto;
+    font-size: 350%;
+    text-align: center;
+ }
+
+.p-text {
+    font-size: 150%;
+    width: 50%;
+    margin: auto;
+    padding-top: 2.5%;
+    text-align: center;
+}
+
+.activities-p {
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.top-stocks-p {
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.quiz-wrap {
+    float: left;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 2%;
+    margin-left: 20%;
+}
+
+.quiz-text {
+    font-weight: lighter;
+    font-size: 200%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.game-wrap {
+    float: right;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 2%;
+    margin-right: 20%;
+}
+
+.game-text {
+    font-weight: lighter;
+    font-size: 200%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.learn-p {
+    width: 70%;
+    margin: auto;
+    margin-top: 3%;
+}
+/* 
+.learn-p-text {
+    font-weight: lighter;
+    font-size: 200%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+} */
+
+.quiz-form {
+    display: block;
+    width: 100%;
+    font-size: 150%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+#submit {
+    margin-top: 1%;
+    color: black;
+    font-weight: bold;
+}
+
+.learn-container {
+    background-color: #fc6868;
+    text-align: center;
+    margin-bottom: 1%;
+    margin-top: 6%;
+    width: 30%;
+    height: 70%;
+}
+
+.learn-container:hover {
+    background-color:#ff8383;
+    transform: scale(1.1);
+}
+
+.learn-card-header {
+    margin: auto;
+    width: 80%;
+    color: #282a2c;
+    padding-top: 5%;
+}
+
+#learn-top-left {
+    margin-left: 15%;
+    float: left;
+}
+
+#learn-top-right {
+    margin-right: 15%;
+    float: right;
+}
+
+#learn-bottom-left {
+    margin-left: 15%;
+    margin-bottom: 10%;
+    float: left;
+}
+
+#learn-bottom-right {
+    margin-right: 15%;
+    margin-bottom: 10%;
+    float: right;
+}
+
+.learn-card-p {
+    font-size: large;
+    margin: auto;
+    color: #282a2c;
+    margin-top: 5%;
+    width: 80%;
+}
+
+#home-b {
+    width: 30%;
+    margin-top: 4%;
+}
+
+#home-bt {
+    width: 100%;
+    margin-left: 23%;
+    font-size: 350%;
+    text-align: left;
+}
+
+#home-p {
+    margin-top: 1.5%;
+    width: 70%;
+}
+
+#home-p-text {
+    width: 50%;
+    margin-left: 10%;
+    text-align: left;
+}
+
+#lg-btn {
+    margin-left: 7%;
+    margin-top: 5%;
+    border: none;
+    background-color: #06e1f5;
+    cursor: pointer;
+    width: 10%;
+    height: 120%;
+    font-size: 140%;
+}
+
+#lg-btn:hover {
+    background-color: #90f6ff;
+}
+
+ #home-img {
+     float:right;
+     margin-top: 6%;
+     margin-right: 10%;
+}
+
+#learn-img1 {
+    margin-top: 5%;
+}
+
+#learn-img2 {
+    margin-top: 5%;
+}
+
+#learn-img3 {
+    margin-top: 5%;
+}
+
+#learn-btn {
+    border: none;
+    background-color: #06e1f5;
+    cursor: pointer;
+    width: 10%;
+    height: 10%;
+    font-size: 140%;
+}
+
+#learn-btn:hover {
+    background-color: #90f6ff;
+}
+
+#learn-done {
+    padding-top: 79%;
+    padding-bottom: 5%;
+    float: center;
+    margin: auto;
+}
