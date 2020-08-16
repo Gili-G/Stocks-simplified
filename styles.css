@@ -182,7 +182,7 @@ A {
     margin-bottom: 1%;
     margin-top: 6%;
     width: 30%;
-    height: 70%;
+    height: 80%;
 }
 
 .learn-container:hover {
@@ -209,7 +209,7 @@ A {
 
 #learn-bottom-left {
     margin-left: 15%;
-    margin-bottom: 10%;
+    margin-bottom: 15%;
     float: left;
 }
 
@@ -297,7 +297,7 @@ A {
 }
 
 #learn-done {
-    padding-top: 79%;
+    padding-top: 82%;
     padding-bottom: 5%;
     float: center;
     margin: auto;
@@ -432,4 +432,3 @@ A {
 .back-btn:hover {
     background-color: #90f6ff;
 }
-
